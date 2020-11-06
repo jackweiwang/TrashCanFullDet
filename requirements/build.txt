@@ -1,0 +1,5 @@
+# These must be installed before building mmdetection
+cython
+numpy
+scikit-image==0.17.2
+scikit-learn==0.20.4
