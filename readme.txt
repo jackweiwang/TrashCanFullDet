@@ -1,3 +1,7 @@
+基于mmdetection框架 和sklearn 开发的垃圾桶满溢检测程序
+
+
+
 ###Setup
 pip install -r requirements.txt
 
